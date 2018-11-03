@@ -9,3 +9,5 @@
   *https://www.youtube.com/watch?v=on_OrrX7Nw4* 
   - Adapter in Android
   *https://www.youtube.com/watch?v=uic3TVp_j3M&t=159s*
+  - ListView in Android - 
+  *https://www.youtube.com/playlist?list=PLLDv5YXzs14j4Nl8KOXSa89pzCVGTteeZ*
