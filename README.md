@@ -1,6 +1,8 @@
 # Study Materials
 
 ## Android:
+  - Linear and Relative Layout in Android - 
+  *https://www.youtube.com/playlist?list=PLLDv5YXzs14g1_uJGpUYdkVh3rS8pg9Ca*
   - Intent in Android - 
   *https://youtu.be/r0TwUVfUR9c?list=PLRKyZvuMYSIN9sVZTfDm4CTdTAzDQyLJU*
   - Menu in Android - 
