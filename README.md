@@ -15,3 +15,5 @@
   *https://www.youtube.com/watch?v=on_OrrX7Nw4* 
   - ListView in Android - 
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14j4Nl8KOXSa89pzCVGTteeZ*
+  - Permissions in Android -
+  *https://www.youtube.com/playlist?list=PLfuE3hOAeWhbnto2o_b65rN_kE96x1XWG*
