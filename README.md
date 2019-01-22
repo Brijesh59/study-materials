@@ -21,6 +21,10 @@
 ## Android: (SEM 6)
   - Using Views -
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14hNFEneSilMziGvY0w5r4Ic*
+  
+## Aptitude: (SEM 6)
+  - Time & Work
+  *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
 
 ## C Programming: 
   - MCQs -
@@ -38,3 +42,4 @@
   - Videos - 
   *https://www.youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E*
   > (Ignore Lecture 50-56, 70-72)
+  
