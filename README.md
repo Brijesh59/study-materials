@@ -1,6 +1,6 @@
 # Study Materials
 
-## Android:
+## Android: (SEM 5)
   - Layouts in Android - 
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14g1_uJGpUYdkVh3rS8pg9Ca*
   - Intent in Android - 
@@ -17,3 +17,7 @@
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14j4Nl8KOXSa89pzCVGTteeZ*
   - Permissions in Android -
   *https://www.youtube.com/playlist?list=PLfuE3hOAeWhbnto2o_b65rN_kE96x1XWG*
+
+## Android: (SEM 6)
+  - Using Views -
+  *https://www.youtube.com/playlist?list=PLLDv5YXzs14hNFEneSilMziGvY0w5r4Ic*
