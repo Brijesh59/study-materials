@@ -25,12 +25,16 @@
 ## C Programming: 
   - MCQs -
   *https://www.indiabix.com/c-programming/questions-and-answers/*
+  - Theory -
+  *https://www.javatpoint.com/c-programming-language-tutorial*
   - Videos - 
   *https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM*
   
 ## Java Programming:
   - MCQs -
   *https://www.indiabix.com/java-programming/questions-and-answers/*
+  - Theory -
+  *https://www.javatpoint.com/java-tutorial*
   - Videos - 
   *https://www.youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E*
   > (Ignore Lecture 50-56, 70-72)
