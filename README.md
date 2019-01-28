@@ -23,6 +23,8 @@
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14hNFEneSilMziGvY0w5r4Ic*
   - Orientation Changes and Custom Views -
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14gJuH8pHYFd1PULdN7lhRUJ*
+  - Card View -
+  *https://developer.android.com/guide/topics/ui/layout/cardview*
   
 ## Aptitude: (SEM 6)
   - Time & Work - 
