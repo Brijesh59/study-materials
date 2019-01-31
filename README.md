@@ -25,6 +25,10 @@
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14gJuH8pHYFd1PULdN7lhRUJ*
   - Card View -
   *https://developer.android.com/guide/topics/ui/layout/cardview*
+  - List View(Including custom listview) - 
+  *https://www.youtube.com/playlist?list=PLLDv5YXzs14jFN9tfqAI2yFE6C5iJ4MTV*
+  - Recycler View-
+  *https://www.youtube.com/watch?v=IGGT_jfZQrA&index=13&list=PLRKyZvuMYSIN9sVZTfDm4CTdTAzDQyLJU&t=0s*
   
 ## Aptitude: (SEM 6)
   - Time & Work - 
