@@ -27,6 +27,8 @@
   *https://developer.android.com/guide/topics/ui/layout/cardview*
   - List View(Including custom listview) - 
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14jFN9tfqAI2yFE6C5iJ4MTV*
+  - Grid View - 
+  *https://developer.android.com/guide/topics/ui/layout/gridview#java*
   - Recycler View-
   *https://www.youtube.com/watch?v=IGGT_jfZQrA&index=13&list=PLRKyZvuMYSIN9sVZTfDm4CTdTAzDQyLJU&t=0s*
   
