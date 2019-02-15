@@ -19,22 +19,28 @@
   *https://www.youtube.com/playlist?list=PLfuE3hOAeWhbnto2o_b65rN_kE96x1XWG*
 
 ## Android: (SEM 6)
-  - Using Views -
+  - Using Views -<br />
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14hNFEneSilMziGvY0w5r4Ic*
-  - Orientation Changes and Custom Views -
+  - Orientation Changes and Custom Views -<br />
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14gJuH8pHYFd1PULdN7lhRUJ*
-  - Card View -
+  - Card View -<br />
   *https://developer.android.com/guide/topics/ui/layout/cardview*
-  - List View(Including custom listview) - 
+  - List View(Including custom listview) - <br />
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14jFN9tfqAI2yFE6C5iJ4MTV*
-  - Grid View - 
+  - Grid View - <br />
   *https://developer.android.com/guide/topics/ui/layout/gridview#java*
-  - Recycler View-
+  - Recycler View -<br />
   *https://www.youtube.com/watch?v=IGGT_jfZQrA&index=13&list=PLRKyZvuMYSIN9sVZTfDm4CTdTAzDQyLJU&t=0s*
+  - Threads in Android - <br />
+  *https://www.youtube.com/watch?v=QfQE1ayCzf8*
   
 ## Aptitude: (SEM 6)
-  - Time & Work - 
+  - Time & Work -<br />
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
+  - Pipes and Cistern -<br />
+  *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*
+  - Time, Speed and Distance(Unit - 2) -<br />
+  *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
 
 ## C Programming: 
   - MCQs -
