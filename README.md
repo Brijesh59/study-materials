@@ -42,21 +42,21 @@
   - Time, Speed and Distance( Whole Unit - 2 ) -<br />
     Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
   - Syllogism (Unit - 3) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14ji6PdEJiHEbXrE1RjxrUqo*
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14ji6PdEJiHEbXrE1RjxrUqo* <br />
     Practice Ques: <br />
-    *https://www.indiabix.com/verbal-reasoning/syllogism/*
-    *https://www.indiabix.com/verbal-reasoning/syllogism/010001*
-    *https://www.indiabix.com/verbal-reasoning/syllogism/011001*
+    *https://www.indiabix.com/verbal-reasoning/syllogism/* <br />
+    *https://www.indiabix.com/verbal-reasoning/syllogism/010001* <br />
+    *https://www.indiabix.com/verbal-reasoning/syllogism/011001* <br />
   - Arithmetical reasoning (Unit - 3) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14h8zdjjj6PdmppoK_q6R9f9*
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14h8zdjjj6PdmppoK_q6R9f9* <br />
     Practice Ques: <br />
-    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/introduction*
-    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/*
-    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/018001*
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/introduction* <br />
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/* <br />
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/018001* <br />
     *https://www.sawaal.com/aptitude-reasoning/verbal-reasoning-mental-ability/logical-venn-diagram-questions-and-answers.htm?page=1&sort=*
     
   - Number ranking test (Unit - 3) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_ucEognsHpNLtTUzsu8j4L*
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_ucEognsHpNLtTUzsu8j4L* <br />
   
 
 ## C Programming: 
