@@ -37,10 +37,20 @@
 ## Aptitude: (SEM 6)
   - Time & Work (Unit - 1) -<br />
     Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
+    Practice Ques: <br />
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/time-and-work-questions-and-answers.html* <br />
   - Pipes and Cistern (Unit - 1) -<br />
     Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*
+    Practice Ques: <br />
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/pipes-and-cistern-questions-and-answers.html*
   - Time, Speed and Distance( Whole Unit - 2 ) -<br />
     Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
+    Practice on Time and Speed - <br />
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/time-and-distance-questions-and-answers.html* <br />
+    Problem on Train - <br />
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/problems-on-trains-questions-and-answers.html* <br />
+    Problem on Boats and Stream - <br />
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/boats-and-streams-questions-and-answers.html* <br />
   - Syllogism (Unit - 3) -<br />
     Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14ji6PdEJiHEbXrE1RjxrUqo* <br />
     Practice Ques: <br />
