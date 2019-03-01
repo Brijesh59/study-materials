@@ -36,15 +36,15 @@
   
 ## Aptitude: (SEM 6)
   - Time & Work (Unit - 1) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*  -<br />
     Practice Ques: <br />
     *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/time-and-work-questions-and-answers.html* <br />
   - Pipes and Cistern (Unit - 1) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*  -<br />
     Practice Ques: <br />
-    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/pipes-and-cistern-questions-and-answers.html*
+    *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/pipes-and-cistern-questions-and-answers.html*  -<br />
   - Time, Speed and Distance( Whole Unit - 2 ) -<br />
-    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*  -<br />
     Practice on Time and Speed - <br />
     *https://www.sawaal.com/aptitude-reasoning/quantitative-aptitude-arithmetic-ability/time-and-distance-questions-and-answers.html* <br />
     Problem on Train - <br />
