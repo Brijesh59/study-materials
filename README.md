@@ -35,12 +35,29 @@
   *https://www.youtube.com/watch?v=QfQE1ayCzf8*
   
 ## Aptitude: (SEM 6)
-  - Time & Work -<br />
-  *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
-  - Pipes and Cistern -<br />
-  *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*
-  - Time, Speed and Distance(Unit - 2) -<br />
-  *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
+  - Time & Work (Unit - 1) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14jNZ3yKHNRFJFKvqqc8Dby6*
+  - Pipes and Cistern (Unit - 1) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_dbr-4oLncrOOdwutUrhMz*
+  - Time, Speed and Distance( Whole Unit - 2 ) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F-2uJD7jlY9qoQRESNsRc3f*
+  - Syllogism (Unit - 3) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14ji6PdEJiHEbXrE1RjxrUqo*
+    Practice Ques: <br />
+    *https://www.indiabix.com/verbal-reasoning/syllogism/*
+    *https://www.indiabix.com/verbal-reasoning/syllogism/010001*
+    *https://www.indiabix.com/verbal-reasoning/syllogism/011001*
+  - Arithmetical reasoning (Unit - 3) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLLDv5YXzs14h8zdjjj6PdmppoK_q6R9f9*
+    Practice Ques: <br />
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/introduction*
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/*
+    *https://www.indiabix.com/verbal-reasoning/venn-diagrams/018001*
+    *https://www.sawaal.com/aptitude-reasoning/verbal-reasoning-mental-ability/logical-venn-diagram-questions-and-answers.htm?page=1&sort=*
+    
+  - Number ranking test (Unit - 3) -<br />
+    Youtube: *https://www.youtube.com/playlist?list=PLJUzDR8Xp7F_ucEognsHpNLtTUzsu8j4L*
+  
 
 ## C Programming: 
   - MCQs -
