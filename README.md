@@ -28,7 +28,7 @@
   - List View(Including custom listview) - <br />
   *https://www.youtube.com/playlist?list=PLLDv5YXzs14jFN9tfqAI2yFE6C5iJ4MTV*
   - Grid View - <br />
-  *https://developer.android.com/guide/topics/ui/layout/gridview#java*
+  *https://javatutorial.net/android-grid-view-example*
   - Recycler View -<br />
   *https://www.youtube.com/watch?v=IGGT_jfZQrA&index=13&list=PLRKyZvuMYSIN9sVZTfDm4CTdTAzDQyLJU&t=0s*
   - Threads in Android - <br />
